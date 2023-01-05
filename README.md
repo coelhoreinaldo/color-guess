@@ -1,4 +1,4 @@
-# Color guess
+# 🎨 Color guess
 
 Acerte qual é a cor referente ao RGB exibido na tela.
 
